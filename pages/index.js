@@ -43,6 +43,7 @@ export default function Home() {
         <p className="description">
           We are Anonymous. We are Legion. We do not forgive. We do not forget.
         </p>
+        <img src=""></img>
       </main>
       <Footer />
     </div>
