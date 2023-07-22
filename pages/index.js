@@ -37,7 +37,8 @@ export default function Home() {
         <p className="description">
           Pridruzi se z mintom AnnonymousX NFTja na protokolu zkSync.
         </p>
-        <button class="button7">mint</button>
+
+        <button class="button-7" role="button">mint</button>
         <p className="description">
           1. septembra povezava do zaprte skupine
         </p>
