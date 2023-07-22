@@ -37,13 +37,13 @@ export default function Home() {
         <p className="description">
           Pridruzi se z mintom AnnonymousX NFTja na protokolu zkSync.
         </p>
+        <img src="/index4.png"></img>
         <p className="description">
           1. septembra povezava do zaprte skupine
         </p>
         <p className="description">
           We are Anonymous. We are Legion. We do not forgive. We do not forget.
         </p>
-        <img src=""></img>
       </main>
       <Footer />
     </div>
