@@ -38,6 +38,7 @@ export default function Home() {
           Pridruzi se z mintom AnnonymousX NFTja na protokolu zkSync.
         </p>
         <img src="/index4.png"></img>
+        <button class="button7">mint</button>
         <p className="description">
           1. septembra povezava do zaprte skupine
         </p>
