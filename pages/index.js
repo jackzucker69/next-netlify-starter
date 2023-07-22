@@ -15,14 +15,30 @@ export default function Home() {
           AnnonymousX Slovenija je Decentralizira Avtonomna Organizacija (DAO).
         </p>
         <p className="description">
-          Organizacija bo aktivno razpravljala sodobne tematike, predvsem na podrocju svobode govora, internetne varnosti in anonimnosti, crypto, razvoj umetne inteligence in varne uporabe. 
+          Organizacija bo aktivno razpravljala sodobne tematike, predvsem na naslednih podrocjih:
+          <ul>
+            <li>
+              Svoboda govora.
+            </li>
+            <li>
+              Internetna varnost in anonimnost.
+            </li>
+            <li>
+              Razne Crypto teme.
+            </li>
+            <li>
+              Blizanje nevarnost umetne inteligence. 
+            </li>
+            <li>
+              Eticno hackanje.
+            </li>
+          </ul>
         </p>
         <p className="description">
-          Trenutno zbiramo prijave, ki so mozne z mintom AnnonymousX NFTja na protokolu zkSync.
+          Pridruzi se z mintom AnnonymousX NFTja na protokolu zkSync.
         </p>
         <p className="description">
-          1. septembra se bo na spletni strani pojavila povezava do novo odprte discord skupine, ki bo bo vodena kot DAO.
-          Lastniki AnnonymousX nftja pa bodo lahko glasovali smer skupine.
+          1. septembra povezava do zaprte skupine
         </p>
         <p className="description">
           We are Anonymous. We are Legion. We do not forgive. We do not forget.
