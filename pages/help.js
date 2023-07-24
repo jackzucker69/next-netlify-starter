@@ -22,12 +22,15 @@ export default function Help() {
       <p>
         NFT (Non-Fungible Token), ali po slovensko nezamenljiv žeton, je vrsta kriptožetona, ki predstavlja edinstveno sredstvo ali predmet.
         NFT-ji so bili uporabljeni za tokenizacijo najrazličnejših vrst sredstev, med drugim umetniških del, zbiralnih predmetov, in več.
+        V nasem primeru je to vztopnica do zaprte skupine in tvoja identiteta znotraj AnnonymousX. 
+        Omogoca glasovanje v DAO in omogoca decentraliziran affiliate marketing, ki je 50% na prodajo. Ostalo pa gre v zakladnico za razlicne DAO namene.
       </p>
 
       <h2>Kaj je PolygonZkEVM?</h2>
       <p>
         PolygonZkEVM je skalabilna rešitev za Ethereum, ki uporablja tehnologijo Zero-Knowledge Proof s ciljem izboljšanja zmogljivosti transakcij ter zmanjšanja stroškov transakcij. 
-        Omogoča hitro in učinkovito izvajanje pametnih pogodb v okolju, združljivem z Ethereum Virtual Machine (EVM).
+        Omogoča hitro in učinkovito izvajanje pametnih pogodb v okolju, združljivem z Ethereum Virtual Machine (EVM). Je novonastali protokol, ter tisti, ki mintajo lahko pricakujejo se kaksen potencialen polygon airdrop.
+        https://boxmining.com/polygon-zkevm-matic-token-airdrop/
       </p>
 
       <h2>Kako se pridružiti in izvesti mint?</h2>
