@@ -4,7 +4,7 @@ export default function Help() {
       <h1>Pomoč</h1>
 
       <h2>Kontakt</h2>
-      <p>Za morebitna vprašanja in poizvedbe smo na voljo na naslednjem elektronskem naslovu: mymail@example.com</p>
+      <p>Za morebitna vprašanja in poizvedbe smo na voljo na naslednjem elektronskem naslovu: jackzucker@proton.me</p>
 
       <h2>O AnonymousX Slovenija</h2>
       <p>
@@ -66,6 +66,7 @@ export default function Help() {
       <h2>Odprtokodnost</h2>
       <p>
         Naša spletna stran je odprtokodna. Če bi želeli prispevati k njenemu razvoju, obiščite naš repozitorij na GitHubu. Tam boste našli tudi našo pametno pogodbo.
+              https://github.com/jackzucker69/next-netlify-starter/
       </p>
 
       <h2>Uporabljene tehnologije</h2>
