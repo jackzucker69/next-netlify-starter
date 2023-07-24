@@ -127,7 +127,7 @@ return (
         <p className="description">
           Pridružite se nam z mintanjem AnonymousX NFT na protokolu PolygonZkEVM ({price ? ethers.utils.formatEther(price) : "?"} eth).
         </p>
-        <div className="connect-button-container" style="margin: auto; width: fit-content;">
+        <div className="connect-button-container">
             <ConnectButton></ConnectButton>
         </div>
         {mintState === 0 ? 
