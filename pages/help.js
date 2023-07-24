@@ -60,7 +60,7 @@ export default function Help() {
       <h2>Affiliate Marketing</h2>
       <p>
         Naša pametne pogodbe uporabljajo affiliate marketing. TO deluje avtomatsko, vse kar rabite naredit, da dodate ?r=vaš_referral_address, in si prislužite 50% provizije od prodaje.
-        Pomembno je, da imate v lasti vsaj 1 annonymous token, da lahko affiliate deluje. Ne pozabite, da lahko imate možnost tiskanja QR kod, ki jih lahko delite naokrog.
+        Pomembno je, da imate v lasti vsaj 1 annonymous token, da lahko affiliate deluje. Ne pozabite, da lahko imate možnost tiskanja QR kod, ki jih lahko delite naokrog. Preizkusite to aplikacijo https://app.short.io/domains/connect
       </p>
 
       <h2>Odprtokodnost</h2>
@@ -71,7 +71,7 @@ export default function Help() {
 
       <h2>Uporabljene tehnologije</h2>
       <p>
-        Naša spletna stran je bila zasnovana z uporabo tehnologije Next.js in je gostovana na platformi Netlify.
+        Naša spletna stran je bila zasnovana z uporabo tehnologije Next.js in je gostovana na platformi Netlify. Pametne pogodbe v Solidity.
       </p>
 
       <h2>Bounties</h2>
