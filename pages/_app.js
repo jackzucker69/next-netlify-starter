@@ -18,7 +18,7 @@ const { chains, publicClient } = configureChains(
   ]
 );
 const appName = "asdf";
-const projectId = "asdf";
+const projectId = "d3541dee612434b6498552f570478076";
 const { wallets: walletGroups } = getDefaultWallets({
   appName: appName,
   projectId: projectId,
