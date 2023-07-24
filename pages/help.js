@@ -60,7 +60,7 @@ export default function Help() {
       <h2>Affiliate Marketing</h2>
       <p>
         Naša pametne pogodbe uporabljajo affiliate marketing. TO deluje avtomatsko, vse kar rabite naredit, da dodate ?r=vaš_referral_address, in si prislužite 50% provizije od prodaje.
-        Prav tako imate možnost tiskanja QR kod, ki jih lahko delite s svojimi povezavami.
+        Pomembno je, da imate v lasti vsaj 1 annonymous token, da lahko affiliate deluje. Ne pozabite, da lahko imate možnost tiskanja QR kod, ki jih lahko delite naokrog.
       </p>
 
       <h2>Odprtokodnost</h2>
